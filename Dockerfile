@@ -1,4 +1,4 @@
 # Centos images
 FROM centos
-MAINTAINER Abdelilah HEDDAR <heddar.abdelilah@live.fr>
+MAINTAINER LinuxArchitects <>
 RUN yum -y install openssh-server
