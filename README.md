@@ -1,0 +1,1 @@
+# Docker Shinken Configuration
